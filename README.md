@@ -1,7 +1,7 @@
 # [Recommendation System using Graph Neural Networks](https://nbviewer.org/github/mughees-asif/postgraduate-research-project/blob/main/180288337_final.ipynb)
 
 <p align="center">
-    <img width=500px src='="=./images/hero.jpg'>
+    <img width=500px src='="=/images/hero.jpg'>
 </p>
 
 ## Introduction
