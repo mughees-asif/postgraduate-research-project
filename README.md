@@ -4,7 +4,7 @@
     <img width=500px src='/images/hero.jpg'>
 </p>
 
-## Introduction
+## Note
 
 This is a postgraduate MSc. research project completed by [Mughees Asif](https://www.linkedin.com/in/mugheesasif/) under the supervision of [Dr Angadh Nanjangud](https://www.sems.qmul.ac.uk/staff/a.nanjangud) at [Queen Mary, University of London](http://www.eecs.qmul.ac.uk/). The associated written evaluation can be found [here](https://github.com/mughees-asif/postgraduate-research-project/blob/main/180288337.pdf). 
 
