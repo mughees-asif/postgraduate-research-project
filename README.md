@@ -12,10 +12,10 @@ Recently, neural networks have been used for developing recommendation systems t
 
 * Install Miniconda: https://docs.conda.io/en/latest/miniconda.html
 * Open terminal: `git clone git@github.com:mughees-asif/postgraduate-research-project.git`
-* Create a new environment [enter custom name instead of <ENV_NAME>] in the root directory of the project through a Miniconda terminal: `conda create -n <ENV_NAME> python3 numpy tqdm` 
+* Create a new environment [enter custom name instead of <ENV_NAME>] in the root directory of the project through an Anaconda terminal: `conda create -n <ENV_NAME> python3 numpy tqdm` 
 * Install `PyTorch`: https://pytorch.org/get-started/locally/
 * Install Jupyter Notebook: `conda install -c conda-forge notebook`
-* Open Jupyter environment: `jupyter notebook`
+* Open Jupyter environment through an Anaconda terminal: `jupyter notebook`
 * Navigate to the root directory & open this notebook
 * You should now be set-up to run this example
 * Any problems: [email](mailto:mughees460@gmail.com) me or ping me on [LinkedIn](https://www.linkedin.com/in/mugheesasif/)
