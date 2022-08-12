@@ -1,4 +1,4 @@
-# [Recommendation System using Graph Neural Networks](https://nbviewer.org/github/mughees-asif/postgraduate-research-project/blob/main/180288337_final.ipynb)
+# [Recommendation System using Graph Neural Networks](https://nbviewer.org/github/mughees-asif/postgraduate-research-project/blob/main/final.ipynb)
 
 <p align="center">
     <img width=500px src='/images/hero.jpg'>
@@ -24,7 +24,7 @@ Recently, neural networks have been used for developing recommendation systems t
 
 This is a postgraduate MSc. research project completed by [Mughees Asif](https://www.linkedin.com/in/mugheesasif/) under the supervision of [Dr Angadh Nanjangud](https://www.sems.qmul.ac.uk/staff/a.nanjangud) at [Queen Mary, University of London](http://www.eecs.qmul.ac.uk/). The associated written evaluation can be found [here](https://github.com/mughees-asif/postgraduate-research-project/blob/main/180288337.pdf). 
 
-Please browse the project [here](https://nbviewer.org/github/mughees-asif/postgraduate-research-project/blob/main/180288337_final.ipynb).
+Please browse the project [here](https://nbviewer.org/github/mughees-asif/postgraduate-research-project/blob/main/final.ipynb).
 
 ## Contributions
 
