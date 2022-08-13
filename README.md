@@ -23,9 +23,7 @@ Recently, neural networks have been used in developing recommendation systems th
 ## Note
 
 * This is a postgraduate MSc. research project completed by [Mughees Asif](https://www.linkedin.com/in/mugheesasif/) under the supervision of [Dr Angadh Nanjangud](https://www.sems.qmul.ac.uk/staff/a.nanjangud) at [Queen Mary, University of London](http://www.eecs.qmul.ac.uk/). 
-
 * The associated written evaluation can be found [here](https://drive.google.com/file/d/1rlg-qpLjy5kA0SMW5FDsr1YtZ0OJK90X/view?usp=sharing). 
-
 * Please browse the project [here](https://nbviewer.org/github/mughees-asif/postgraduate-research-project/blob/main/final.ipynb).
 
 ## Contributions
