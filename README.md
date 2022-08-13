@@ -6,7 +6,7 @@
 
 ## Abstract
 
-Recently, neural networks have been used in developing recommendation systems that can parse graph-like data structures to develop meaningful representations from user-to-item relationships and social network information. Moreover, recommendation systems that have been developed with Graph Neural Networks (GNNs) expedite the aggregation process of macro (e.g., topological structure) and micro (e.g., node information) operations, and therefore enhance the overall information filtering capabilities of the system. However, the representation learning process is non-linear as social relationships combined with item interactions, both, need to be considered for optimal results. This research project aimed to address this by proposing a recommendation system that is capable of using the underlying social connections between users and items. The system was also split into three variations where several metrics were used to draw comparisons with published academic recommendation systems. The training of the models was done by using two real-world datasets that contain user-to-user and user-to-item information. The results show the system performing with equal efficiency as the sourced academic models, and also highlights the suitability of the system for recommendation tasks. 
+Recently, neural networks have been used in developing recommendation systems that can parse graph-like data structures to develop meaningful representations from user-to-item relationships and social network information. Moreover, recommendation systems that have been developed with Graph Neural Networks (GNNs) expedite the aggregation process of macro (e.g., topological structure) and micro (e.g., node information) operations, and therefore enhance the overall information filtering capabilities of the system. However, the representation learning process is non-linear as social relationships combined with item interactions, both, need to be considered for optimal results. This research project aimed to address this by proposing a recommendation system that is capable of using the underlying social connections between users and items. The system was also split into three variations where several metrics were used to draw comparisons with published academic recommendation systems. The training of the models was done by using two real-world datasets that contain user-to-user and user-to-item information. The results show the system performing with equal efficiency as the sourced academic models, and also highlight the suitability of the system for recommendation tasks.  
 
 ## Instructions
 
@@ -22,9 +22,11 @@ Recently, neural networks have been used in developing recommendation systems th
 
 ## Note
 
-This is a postgraduate MSc. research project completed by [Mughees Asif](https://www.linkedin.com/in/mugheesasif/) under the supervision of [Dr Angadh Nanjangud](https://www.sems.qmul.ac.uk/staff/a.nanjangud) at [Queen Mary, University of London](http://www.eecs.qmul.ac.uk/). The associated written evaluation can be found [here](https://github.com/mughees-asif/postgraduate-research-project/blob/main/180288337.pdf). 
+* This is a postgraduate MSc. research project completed by [Mughees Asif](https://www.linkedin.com/in/mugheesasif/) under the supervision of [Dr Angadh Nanjangud](https://www.sems.qmul.ac.uk/staff/a.nanjangud) at [Queen Mary, University of London](http://www.eecs.qmul.ac.uk/). 
 
-Please browse the project [here](https://nbviewer.org/github/mughees-asif/postgraduate-research-project/blob/main/final.ipynb).
+* The associated written evaluation can be found [here](https://drive.google.com/file/d/1rlg-qpLjy5kA0SMW5FDsr1YtZ0OJK90X/view?usp=sharing). 
+
+* Please browse the project [here](https://nbviewer.org/github/mughees-asif/postgraduate-research-project/blob/main/final.ipynb).
 
 ## Contributions
 
