@@ -20,17 +20,65 @@ Recently, neural networks have been used in developing recommendation systems th
 * You should now be set-up to run this example
 * Any problems: [email](mailto:mughees460@gmail.com) me or ping me on [LinkedIn](https://www.linkedin.com/in/mugheesasif/)
 
-## Note
-
-* This is a postgraduate MSc. research project completed by [Mughees Asif](https://www.linkedin.com/in/mugheesasif/) under the supervision of [Dr Angadh Nanjangud](https://www.sems.qmul.ac.uk/staff/a.nanjangud) at [Queen Mary, University of London](http://www.eecs.qmul.ac.uk/). 
-* The associated written evaluation can be found [here](https://drive.google.com/file/d/1rlg-qpLjy5kA0SMW5FDsr1YtZ0OJK90X/view?usp=sharing). 
-* Please browse the project [here](https://nbviewer.org/github/mughees-asif/postgraduate-research-project/blob/main/final.ipynb).
-
 ## Overview
 
 <p align="center">
     <img width=500px src='/images/1.png'>
 </p>
+
+<p align="center">
+    <img width=500px src='/images/2.png'>
+</p>
+
+<p align="center">
+    <img width=500px src='/images/3.png'>
+</p>
+
+<p align="center">
+    <img width=500px src='/images/4.png'>
+</p>
+
+<p align="center">
+    <img width=500px src='/images/5.png'>
+</p>
+
+<p align="center">
+    <img width=500px src='/images/6.png'>
+</p>
+
+<p align="center">
+    <img width=500px src='/images/7.png'>
+</p>
+
+<p align="center">
+    <img width=500px src='/images/8.png'>
+</p>
+
+<p align="center">
+    <img width=500px src='/images/9.png'>
+</p>
+
+<p align="center">
+    <img width=500px src='/images/10.png'>
+</p>
+
+<p align="center">
+    <img width=500px src='/images/11.png'>
+</p>
+
+<p align="center">
+    <img width=500px src='/images/12.png'>
+</p>
+
+<p align="center">
+    <img width=500px src='/images/13.png'>
+</p>
+
+## Note
+
+* This is a postgraduate MSc. research project completed by [Mughees Asif](https://www.linkedin.com/in/mugheesasif/) under the supervision of [Dr Angadh Nanjangud](https://www.sems.qmul.ac.uk/staff/a.nanjangud) at [Queen Mary, University of London](http://www.eecs.qmul.ac.uk/). 
+* The associated written evaluation can be found [here](https://drive.google.com/file/d/1rlg-qpLjy5kA0SMW5FDsr1YtZ0OJK90X/view?usp=sharing). 
+* A presentation thay complements this research can be sourced [here](https://drive.google.com/file/d/1fEI_tpBhyBP-6-LQl27IRN6Lsv36lYpW/view?usp=sharing).
 
 ## Contributions
 
