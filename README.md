@@ -70,7 +70,7 @@
 
 * This is a postgraduate MSc. research project completed by [Mughees Asif](https://www.linkedin.com/in/mugheesasif/) under the supervision of [Dr Angadh Nanjangud](https://www.sems.qmul.ac.uk/staff/a.nanjangud) at [Queen Mary, University of London](http://www.eecs.qmul.ac.uk/). 
 * The associated written evaluation can be found [here](https://drive.google.com/file/d/1rlg-qpLjy5kA0SMW5FDsr1YtZ0OJK90X/view?usp=sharing). 
-* A presentation thay complements this research can be sourced [here](https://drive.google.com/file/d/1fEI_tpBhyBP-6-LQl27IRN6Lsv36lYpW/view?usp=sharing).
+* A presentation that complements this research can be sourced [here](https://drive.google.com/file/d/1fEI_tpBhyBP-6-LQl27IRN6Lsv36lYpW/view?usp=sharing).
 
 ## Contributions
 
