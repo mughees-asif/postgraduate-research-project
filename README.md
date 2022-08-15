@@ -26,6 +26,12 @@ Recently, neural networks have been used in developing recommendation systems th
 * The associated written evaluation can be found [here](https://drive.google.com/file/d/1rlg-qpLjy5kA0SMW5FDsr1YtZ0OJK90X/view?usp=sharing). 
 * Please browse the project [here](https://nbviewer.org/github/mughees-asif/postgraduate-research-project/blob/main/final.ipynb).
 
+## Overview
+
+<p align="center">
+    <img width=500px src='/images/1.png'>
+</p>
+
 ## Contributions
 
 This project was developed with the help of the content researched by:
